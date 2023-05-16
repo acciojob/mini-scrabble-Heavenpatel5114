@@ -1,4 +1,3 @@
-//your code here
 let evaluatedText = document.querySelector("#evaluatedText");
 let letterCount = document.querySelector("#letterCount");
 
